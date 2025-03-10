@@ -4,7 +4,7 @@
 ## HELP
 ### I NEED TO GO HOME NOW
 
-** TO DO LIST **
+**TO DO LIST**
 1. Pack your bag
 2. Stand up
 3. ~~go sambo~~ GO HOME
